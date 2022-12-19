@@ -37,5 +37,5 @@ Mencoba untuk Login dengan User yang tadi diinput ke Database
 Maka Hasilnya akan terbuka file `index.php`
 ![Step9](SS/SS9.png)<br>
 
-Mencoba untuk Login dengan User yang tidak diinput ke Database, maka Hasilnya :
+Mencoba untuk Login dengan User yang tidak diinput ke Database
 ![Step10](SS/SS10.png)<br>
